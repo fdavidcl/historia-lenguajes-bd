@@ -10,6 +10,7 @@ Timeline de la historia de los lenguajes de bases de datos
 **(1986)** *SQL-86* - Primera publicación hecha por ANSI y confirmada por ISO.  
 **(1987)** *OttoQL* - Lenguaje escrito para XML con una sintaxis muy simple.  
 **(1999)** *SQL3* - Añadió expresiones regulares, búsquedas recursivas, triggers, soporte para sentencias para flujo de control, tipos no escalares y algunas características orientadas a objetos.  
+**(1999)** *XPath* - Permite selecionar nodos XML y trabajar con sus datos. Definido por W3C.  
 **(2000)** *Versa* - Para datos en RDF, implementado desde un lenguaje anterior, RIL.   
 **(2001)** *HQL* - Hibernate Query Language. Lenguaje proporcionado por la librería Hibernate ORM para Java.  
 **(2006)** *JPQL* - Java Persistence Query Language. Parte de la especificación Java Persistence API. Basado originalmente en HQL.  
