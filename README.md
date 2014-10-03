@@ -9,4 +9,5 @@ Timeline de la historia de los lenguajes de bases de datos
 **(1982)** *IBM Business System 12* - Uno de los primeros SGBS con su propio lenguaje, que posteriormente se abandonó por SQL.  
 **(1986)** *SQL-86* - Primera publicación hecha por ANSI y confirmada por ISO.  
 **(1987)** *OttoQL* - Lenguaje escrito para XML con una sintaxis muy simple.  
-**(2007)** *XQuery* - Desarrollado y recomendado por el W3C como lenguaje para bases de datos en XML.
+**(2007)** *XQuery* - Desarrollado y recomendado por el W3C como lenguaje para bases de datos en XML.  
+**(2008)** *SPARQL* - Desarrollado por el W3C para datos almacenados en RDF. Considerado clave para la web semántica.
