@@ -12,5 +12,6 @@ Timeline de la historia de los lenguajes de bases de datos
 **(1999)** *SQL3* - Añadió expresiones regulares, búsquedas recursivas, triggers, soporte para sentencias para flujo de control, tipos no escalares y algunas características orientadas a objetos.  
 **(2001)** *HQL* - Hibernate Query Language. Lenguaje proporcionado por la librería Hibernate ORM para Java.  
 **(2006)** *JPQL* - Java Persistence Query Language. Parte de la especificación Java Persistence API. Basado originalmente en HQL.  
-**(2007)** *XQuery* - Desarrollado y recomendado por el W3C como lenguaje para bases de datos en XML.  
-**(2008)** *SPARQL* - Desarrollado por el W3C para datos almacenados en RDF. Considerado clave para la web semántica.
+**(2007)** *XQuery* - Desarrollado y recomendado por el W3C como lenguaje para bases de datos en XML.   
+**(2008)** *SPARQL* - Desarrollado por el W3C para datos almacenados en RDF. Considerado clave para la web semántica.  
+*OQL* - Object Query Language. Lenguaje para bases de datos orientadas a objetos creado tras SQL.  
